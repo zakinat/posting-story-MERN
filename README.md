@@ -1,4 +1,4 @@
-# StoruPosting | MERN
+# StoryPosting | MERN
 
 A MERN stack app to post a story of our life.
 
