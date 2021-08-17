@@ -7,7 +7,7 @@
     "c_client": "npx create-react-app client",
     "i_depclient": "cd client && npm i",
     "client": "cd client && npm start",
-    "server": "cd server && node server",
+    "start": "cd server && node server",
     "build": "cd client && npm install && npm run build"
 
   },
