@@ -1,0 +1,15 @@
+{
+  "name": "post-story-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "c_client": "npx create-react-app client",
+    "i_depclient": "cd client && npm i",
+    "r_client": "cd client && npm start"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
